@@ -5,6 +5,7 @@ import { type ReactNode, useState } from "react";
 import { type State, WagmiProvider } from "wagmi";
 
 import { getConfig } from "../wagmi.config";
+import { NavBar } from "@/modules/shared/NavBar";
 
 type Props = {
   children: ReactNode;
