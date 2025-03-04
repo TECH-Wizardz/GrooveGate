@@ -50,7 +50,7 @@ export const NavBar = () => {
               href="/search"
               className="text-white/80 hover:text-white transition-colors font-medium"
             >
-              Search
+              Browse Events
             </Link>
           </li>
           <li>
