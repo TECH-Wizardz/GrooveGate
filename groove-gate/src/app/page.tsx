@@ -21,7 +21,7 @@ export default function Home() {
     <p>Country</p>
     <p>Folk</p>
     <p>Classical</p>
-
+    <p>Classical</p>
       </div>
   
     
